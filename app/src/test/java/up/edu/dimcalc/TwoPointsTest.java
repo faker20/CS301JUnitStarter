@@ -1,5 +1,7 @@
 package up.edu.dimcalc;
 
+import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class TwoPointsTest {
@@ -8,27 +10,27 @@ public class TwoPointsTest {
     public void getPoint() {
     }
 
-    @org.junit.Test
+    @Test
     public void setPoint() {
     }
 
-    @org.junit.Test
+    @Test
     public void randomValue() {
     }
 
-    @org.junit.Test
+    @Test
     public void setOrigin() {
     }
 
-    @org.junit.Test
+    @Test
     public void copy() {
     }
 
-    @org.junit.Test
+    @Test
     public void distance() {
     }
 
-    @org.junit.Test
+    @Test
     public void slope() {
     }
 }
